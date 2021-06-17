@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <h1>Click to remove </h1>
+      <p>Data get from JsonPlaceHolder</p>
     </div>
     <router-view/>
   </div>
