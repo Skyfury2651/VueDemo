@@ -36,10 +36,12 @@ export default {
 }
 </script>
 
-<style scoped >
-  /*ul {*/
-  /*  li {*/
-  /*    text-align: left;*/
-  /*  }*/
-  /*}*/
+<style scoped lang="scss">
+ul {
+  list-style-type: none;
+
+  li {
+    text-align: left;
+  }
+}
 </style>
